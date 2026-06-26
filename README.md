@@ -1,6 +1,8 @@
 # Higgstools-in-2HDMC
 edit to 2HDMC code to include updated limits from HiggsTools
 
+***This is by no means optimised, and i cannot promise that there are no bugs.***
+
 2HDMC code can be found at [2HDMC](https://2hdmc.hepforge.org/)
 
 HiggsBounds, HiggsTools, and the datasets for HiggsBounds and HiggsSignals can be found at [HiggsBounds](https://gitlab.com/higgsbounds)
