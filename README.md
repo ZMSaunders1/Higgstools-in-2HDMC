@@ -1,7 +1,7 @@
 # Higgstools-in-2HDMC
 edit to 2HDMC code to include updated limits from HiggsTools
 
-***This is by no means optimised, and i cannot promise that there are no bugs.***
+***This might not be optimised, and i cannot promise zero bugs.***
 
 2HDMC code can be found at [2HDMC](https://2hdmc.hepforge.org/)
 
